@@ -1,4 +1,4 @@
-# Credit-Card-Fraud
+# Credit-Card-Fraud-Detection
 Project on Credit card fraud detection techniques, Imbalanced Dataset
 
 ## Project Information
